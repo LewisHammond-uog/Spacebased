@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b59e47f1600abdc46b967d154462ae8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tyrePrefab: {fileID: 1146244439286612, guid: 859292420ee6d38468d7cadf6b3af7ec,
+      type: 2}
+  - enginePrefab: {fileID: 1314620285102328, guid: 0525a43f44cc8424eb4dbbab150cc7f5,
+      type: 2}
+  - turboPrefab: {fileID: 1697161583110252, guid: 12020c90b23a95742ba9693373ae99d5,
+      type: 2}
+  - bodyPrefab: {fileID: 1232802051469846, guid: 7c4132970397e844ca061aa2c5fb412b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
