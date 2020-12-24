@@ -184,7 +184,7 @@ public class CarLapData : MonoBehaviour {
     {
         return Vector3.Distance(transform.position, visitedCheckpoints[0].transform.position);
     }
-    ///Test
+    
 
     /// <summary>
     /// Assigns the this car their current postion in the race
