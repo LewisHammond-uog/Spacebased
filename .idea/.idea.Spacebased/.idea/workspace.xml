@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbb6aa21-0c00-401f-a841-29537b8d03bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/Utility/ForcedReset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/Utility/ForcedReset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/Utility/SimpleActivatorMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/Utility/SimpleActivatorMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_A.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_A.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_B.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_B.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Down.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Down.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Left.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Left.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Right.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Right.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Up.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Dpad_Up.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Y.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/ControlPrompts/360_Y.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/CharacterSelectionBackground.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/CharacterSelectionBackground.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/ConstructionControls.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/ConstructionControls.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/MenuOpeningScene.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/MenuOpeningScene.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/Player ID Rect.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/Player ID Rect.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/PlayerUI Background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/PlayerUI Background.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/RaceInstructions.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/RaceInstructions.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/TimerUIBackground.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Background Boxes/TimerUIBackground.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconAlien.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconAlien.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconAstronaught.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconAstronaught.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconRobot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconRobot.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconsScientist.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/CharacterIcons/CharacterIconsScientist.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Menu Elements/CheckeredFlagIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Menu Elements/CheckeredFlagIcon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Menu Elements/PointerArrow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Menu Elements/PointerArrow.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartBodyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartBodyIcon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartEngineIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartEngineIcon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartTurboIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartTurboIcon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartTyreIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Part Icons/PartTyreIcon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Timer Icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Timer Icon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Track Images/TrackIconPlanetZ.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Track Images/TrackIconPlanetZ.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Track Images/TrackIconTheIceGiant.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Track Images/TrackIconTheIceGiant.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Track Images/TrackIconTheRedPlanet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/UI Icons/Track Images/TrackIconTheRedPlanet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/JenkinsBuild.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/Utility/ForcedReset.cs" />
+        <option value="$PROJECT_DIR$/Assets/Race Tracks/Race Track 3/Standard Assets/Utility/SimpleActivatorMenu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m6jyiXXnDCKa82KMqlLsjjBV2p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -22,5 +108,25 @@
       </option>
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbb6aa21-0c00-401f-a841-29537b8d03bd" name="Default Changelist" comment="" />
+      <created>1608821194268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608821194268</updated>
+      <workItem from="1608821207078" duration="423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

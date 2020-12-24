@@ -203,6 +203,9 @@
           <e p="Controls" t="Include">
             <e p="ControlManager.cs" t="Include" />
           </e>
+          <e p="Editor" t="Include">
+            <e p="JenkinsBuild.cs" t="Include" />
+          </e>
           <e p="Menu" t="Include">
             <e p="Character Selection" t="Include">
               <e p="CharacterMenuController.cs" t="Include" />
